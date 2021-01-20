@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: MJ Heise
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Psychology Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Center for Mind & Brain, UC Davis
+  url: https://mindbrain.ucdavis.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research takes a neurophysiology approach to examine the 'building blocks' of children's social cognition, and how children use their knowledge of other peoples' mental states in the real world in social behavior. 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Theory of mind
+- Executive function
+- EEG and ERP
+- Experimental design
+- Programming (R, MATLAB)
+- Applied research (Education technology)
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Psychology
+    institution: University of California, Davis
+    year: Expected June 2022
+  - course: MA in Psychology
+    institution: University of California, Davis
+    year: 2020
+  - course: BS in Child Psychology
+    institution: University of Minnesota, Twin Cities
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
