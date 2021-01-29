@@ -1,0 +1,23 @@
+# Theme metadata
+name = "mj"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#ADD0E8"
+
+# Menu
+# rose gold header = #eabfb9
+menu_primary = "#fda172"
+menu_text = "#000000"
+menu_text_active = "#000000"
+menu_title = "#546e7a"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#455a64"
+  link_hover = "#ADD0E8"
