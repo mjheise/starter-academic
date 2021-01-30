@@ -73,5 +73,5 @@ email: ""
 highlight_name: false
 ---
 
-I am a 4th year Ph.D. candidate in Developmental Psychology. My research focuses on how children develop a complex representational understanding of others' mental states (e.g., thoughts, beliefs and desires) and how children use their social cognition in the real world (e.g., through sharing and helping). Her research takes a developmental cognitive neuroscience approach, and I use EEG & ERP to better understand how the social brain is 'built' throughout childhood. I'm passionate about improving research practices in developmental neuroscience.
+I am a 4th year Ph.D. candidate in Developmental Psychology. My research focuses on how children develop a complex representational understanding of others' mental states (e.g., thoughts, beliefs and desires) and how children use their social cognition in the real world (e.g., through sharing and helping). My research takes a developmental cognitive neuroscience approach, and I use EEG & ERP to better understand how the social brain is 'built' throughout childhood. I'm passionate about improving research practices in developmental neuroscience. When I'm not working remotely, I like watercolor painting, hiking, biking and beekeeping.
 
