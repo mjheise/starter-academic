@@ -1,44 +1,44 @@
 ---
-title: Example Talk
+title: Kinds of Mindreading, UConn
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Kinds of Mindreading Graduate Conference
+event_url: https://ecomresearchgroup.com/workshops-and-conferences/
 
-location: Wowchemy HQ
+location: Virtual
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 406 Babbidge Road
+  city: Storrs
+  region: CT
+  postcode: '06269'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Spontaneous belief understanding at age 2 years predicts explicit theory of mind at 3 years - A replication study and longitudinal data analysis
+abstract: "Despite several decades of research examining young children's performance on spontaneous (non-elicited, looking time) measures of theory of mind, relations between early looking time measures of social cognition and explicit, verbal measures in preschool remain unclear. This study (N=214) evaluates a spontaneous belief task in 2-year-olds, and examines relations between spontaneous belief and concurrent explicit ToM-relevant cognition (e.g., pretense) and later explicit ToM at 3-years-old (N=159)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-02-06T09:45:00Z"
+date_end: "2021-02-06T16:10:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags: [spontaneous theory of mind, explicit theory of mind, longitudinal]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,15 +49,15 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+#projects:
+#- example
 ---
 
 {{% callout note %}}
