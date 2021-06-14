@@ -42,7 +42,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://ecomresearchgroup.com/workshops-and-conferences/#"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
