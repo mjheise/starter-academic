@@ -19,18 +19,17 @@ bio: My research takes a neurophysiology approach to examine the 'building block
 # Interests to show in About widget
 interests:
 - Theory of mind
-- Executive function
-- EEG and ERP
-- Experimental design
-- Programming (R, MATLAB)
+- Social emotional learning
 - Applied research (Education technology, Data science)
+- Data analysis (R, MATLAB)
+- Experimental design
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Psychology
     institution: University of California, Davis
-    year: Expected June 2022
+    year: Expected June 2023
   - course: MA in Psychology
     institution: University of California, Davis
     year: 2020
@@ -73,5 +72,5 @@ email: ""
 highlight_name: false
 ---
 
-I am a 5th year Ph.D. candidate in Developmental Psychology. My research focuses on how children develop a complex representational understanding of others' mental states (e.g., thoughts, beliefs and desires) and how children use their social cognition in the real world (e.g., through sharing and helping). My research takes a developmental cognitive neuroscience approach, and I use EEG & ERP to better understand how the social brain is 'built' throughout childhood. I'm passionate about improving research practices in developmental neuroscience. When I'm not in lab, I like watercolor painting, hiking, biking and beekeeping.
+I am a 5th year Ph.D. student in Developmental Psychology. My research focuses on how children develop a representational understanding of others' mental states (e.g., thoughts, beliefs and desires) and improving methods in developmental science. My research takes a developmental cognitive neuroscience approach, and I use event-related potentials observed in the electroencephalogram to better understand how the social brain is 'built' throughout childhood. When not in lab, I am watercolor painting, hiking and camping.
 
